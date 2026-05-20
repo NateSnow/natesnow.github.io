@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.natesnow.edtutor",
+        "sha256_cert_fingerprints": ["02:AA:6C:15:BE:1F:5E:37:CF:14:91:F4:D0:59:EE:9A:AD:6D:FD:31:83:4C:9F:EC:BB:79:91:60:58:D0:53:E4"]
+      }
+    }]
