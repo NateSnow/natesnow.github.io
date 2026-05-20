@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.natesnow.twa",
+        "sha256_cert_fingerprints": ["5D:E5:16:EE:94:43:B8:9F:27:B4:D6:47:69:86:CE:1A:45:75:4C:E6:EF:8A:B3:90:BC:7A:C3:D5:6E:37:11:BA"]
+      }
+    }]
